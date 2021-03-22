@@ -20,5 +20,5 @@ def reverseNum(num):
             reversedNum = reversedNum*10 + lastDigit
 
         return reversedNum * positiveNegative
-        
+
 
